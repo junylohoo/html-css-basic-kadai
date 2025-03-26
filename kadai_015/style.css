@@ -16,7 +16,6 @@ body{
 
 h1 {
     /* googleのフォントです */
-    .noto-sans-jp-<uniquifier> 
     font-family: 'Josefin Sans', sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
